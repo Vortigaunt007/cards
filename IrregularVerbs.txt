@@ -1,0 +1,120 @@
+be, was/were, been: быть/находиться
+beat, beat, beaten: бить
+become, became, become: становиться
+begin, began, begun: начинать
+bite, bit, bitten: кусать
+bleed, bled, bled: кровоточить
+blow, blew, blown: дуть
+break, broke, broken: ломать
+bring, brought, brought: приносить
+build, built, built: строить
+burn, burnt, burnt: гореть
+burst, burst, burst: разразиться/лопаться
+buy, bought, bought: покупать
+can, could, could(able to): мочь/уметь
+catch, caught, caught: ловить/хватать
+choose, chose, chosen: выбирать
+come, came, come: приходить
+cost, cost, cost: стоить
+creep, crept, crept: ползать
+cut, cut, cut: резать/отрезать
+do, did, done: делать
+draw, drew, drawn: рисовать/тащить
+dream, dreamt, dreamt: мечтать/дремать
+drink, drank, drunk: пить
+drive, drove, driven: водить
+eat, ate, eaten: есть
+fall, fell, fallen: падать
+feed, fed, fed: кормить
+feel, felt, felt: чувствовать
+fight, fought, fought: драться
+find, found, found: находить
+fit, fit, fit: подходить по размеру
+fly, flew, flown: летать
+forget, forgot, forgotten: забывать
+forgive, forgave, forgiven: прощать
+freeze, froze, frozen: замерзать
+get, got, got: получать 
+give, gave, given: давать
+go, went, gone: идти
+grow, grew, grown: расти
+hang, hung, hung: вешать, висеть
+have, had, had: иметь
+hear, heard, heard: слышать
+hide, hid, hidden: прятать
+hit, hit, hit: ударять
+hold, held, held: держать
+hurt, hurt, hurt: причинять боль
+keep, kept, kept: содержать
+kneel, knelt, knelt: стоять на коленях
+know, knew, known: знать
+lay, laid, laid: класть
+lead, led, led: вести, руководить
+lean, lent, lent: прислоняться
+learn, learnt, learnt: учить
+leave, left, left: оставлять
+lend, lent, lent: занимать, одалживать
+let, let, let: позволять, разрешать
+lie, lay, lain: лежать
+lie, lied, lied: лгать
+light, lit, lit: освещать
+lose, lost, lost: терять
+make, made, made: производить, сделать
+mean, meant, meant: значить, иметь в виду
+meet, met, met: встречать
+mistake, mistook, mistaken: ошибаться
+pay, paid, paid: платить
+prove, proved, proven: доказывать
+put, put, put: положить
+quit, quit, quit: выходить
+read, read, read: читать
+ride, rode, ridden: ездить верхом
+ring, rang, rung: звенеть, звонить
+rise, rose, risen: подниматься
+run, ran, run: бежать
+say, said, said: говорить
+see, saw, seen: видеть
+seek, sought, sought: искать
+sell, sold, sold: продавать
+send, sent, sent: посылать
+set, set, set: ставить, устанавливать
+sew, sewed, sewn: шить
+shake, shook, shaken: встряхивать, трясти
+show, showed, shown: показывать
+shrink, shrank, schrunk: уменьшать, сжимать
+shut, shut, shut: закрывать
+sing, sang, sung: петь
+sink, sank, sunk: тонуть
+sit, sat, sat: сидеть
+sleep, slept, slept: спать
+slide, slid, slid: скользить
+sow, sowed, sown: сеять
+speak, spoke, spoken: говорить
+spell, spelt, spelt: произносить по буквам
+spend, spent, spent: тратить
+spill, spilt, spilt: проливать
+spoil, spoilt, spoilt: портить
+spread, spread, spread: распространять
+spring, sprang, sprung: прыгать
+stand, stood, stood: стоять
+steal, stole, stolen: красть
+stick, stuck, stuck: втыкать
+sting, stung, stung: жалить
+sweep, swept, swept: выметать, мести
+swell, swelled, swollen: разбухать
+swim, swam, swum: плавать
+swing, swung, swung: качаться
+take, took, taken: брать, взять
+teach, taught, taught: учить, обучать
+tear, tore, torn: рвать
+tell, told, told: рассказывать
+think, thought, thought: думать
+throw, threw, thrown: бросать
+understand, understood, understood: понимать
+wake, woke, woken: просыпаться
+wear, wore, worn: носить
+weep, wept, wept: плакать
+wet, wet, wet: мочить
+win, won, won: выигрывать
+wind, wound, wound: извиваться
+write, wrote, written: писать
